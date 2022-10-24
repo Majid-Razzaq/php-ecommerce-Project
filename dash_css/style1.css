@@ -1,0 +1,54 @@
+body
+{    
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+.picc
+{
+    margin-top: -50px;
+    margin-left: 20px;
+    border-radius: 50%;
+    border:1px solid brown;
+}
+.pic
+{
+    margin-top: -50px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+h3
+{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+h6
+{
+    padding-top: 5px;
+}
+.dash
+{
+    background-color:white; 
+    height:700px;
+}
+.cat{
+   margin-top:10px;
+   margin-left:20px;
+   width:400px; 
+   border-radius:5px;
+}
+.table-responsive
+{
+    margin-top:10px;
+}
+.spec 
+{
+    margin-top:-80px;
+}
+.userpic
+{
+    border-radius: 50%;
+    margin-top: 10px;
+    height:50px;
+    width: 50px;
+}
